@@ -1,6 +1,6 @@
 ## Problema 
 
-Implemente a função int maior(TNoA *raiz)  que recebe um ponteiro para a raiz de uma árvore binária de busca e retorna o maior valor que está armazenado nessa árvore (usar o campo *chave* dos nós nessa busca). 
+Implemente a função TNoA *maior(TNoA *raiz)  que recebe um ponteiro para a raiz de uma árvore binária de busca e retorna um ponteiro para o maior valor que está armazenado nessa árvore (usar o campo *chave* dos nós nessa busca). 
 
 Use o arquivo fornecido nesse exercício, pois ele já contém o tratamento de entrada e saída. 
 
@@ -8,7 +8,7 @@ Use o arquivo fornecido nesse exercício, pois ele já contém o tratamento de e
 - árvore a ser percorrida. Os nós da árvore devem ser informados separados por traço, na ordem em que devem ser inseridos na árvore (o esqueleto fornecido já realiza a inserção). Os valores dos nós devem ser informados separados por um traço, sem espaço em branco entre o valor do nó e o traço.
 
 ## Saída:
-- maior valor da árvore 
+- maior valor da árvore (a impressão é feita na função main)
 
 ## Exemplos:
 
