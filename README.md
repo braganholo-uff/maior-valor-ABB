@@ -16,6 +16,7 @@ Use o arquivo fornecido nesse exercício, pois ele já contém o tratamento de e
 |---|---|
 |100-200-20|200|
 |400-300-500-150-200-450|500|
+|1000-500-150-300-200-450|1000|
 
 ## Dicas Importantes:
 
